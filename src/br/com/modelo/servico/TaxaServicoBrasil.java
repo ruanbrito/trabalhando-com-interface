@@ -1,6 +1,6 @@
 package br.com.modelo.servico;
 
-public class TaxaServicoBrasil {
+public class TaxaServicoBrasil implements TaxaServico{
 	
 	public double taxa(double quantia) {
 		if(quantia <= 100.0) {
