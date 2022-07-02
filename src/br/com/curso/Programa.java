@@ -10,7 +10,6 @@ import br.com.modelo.entidades.AlugarCarro;
 import br.com.modelo.entidades.Veiculo;
 import br.com.modelo.servico.ServicoAluguel;
 import br.com.modelo.servico.TaxaServicoBrasil;
-import br.com.modelo.servico.TaxaServicoEUA;
 
 public class Programa {
 
